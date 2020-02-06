@@ -1,2 +1,8 @@
 [0]
+ArraysOfArrays = "0.0.0 - 0.4"
+BitOperations = "0.0.0 - 0.2"
+StructArrays = "0.0.0 - 0.4"
 julia = "1"
+
+["0.2-0"]
+FillArrays = "0.0.0 - 0.8"

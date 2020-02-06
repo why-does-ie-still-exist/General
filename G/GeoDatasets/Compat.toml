@@ -1,2 +1,7 @@
 [0]
+CodecZlib = "0.0.0 - 0.6"
+GeoInterface = "0.0.0 - 0.5"
+RemoteFiles = "0.0.0 - 0.3"
+Shapefile = "0.0.0 - 0.6"
+ZipFile = "0.0.0 - 0.9"
 julia = "1"

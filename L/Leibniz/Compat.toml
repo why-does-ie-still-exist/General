@@ -1,8 +1,14 @@
 [0]
+AbstractLattices = "0.0.0 - 0.1"
+AbstractTensors = "0.0.0 - 0.4"
+StaticArrays = "0.0.0 - 0.12"
 julia = "1"
+
+["0-0.0.1"]
+DirectSum = "0.0.0 - 0.3"
 
 ["0.0.2"]
 DirectSum = "0.3"
 
 ["0.0.3-0"]
-DirectSum = "0.3.0-*"
+DirectSum = "0.3.0 - 0.5"

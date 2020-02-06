@@ -1,5 +1,5 @@
 [0]
-BinDeps = "0.8-0"
+BinDeps = "0.8.0 - 0.8"
 LightGraphs = "1"
-Optim = "0.16-0"
+Optim = "0.16.0 - 0.20"
 julia = ["0.7", "1"]

@@ -1,2 +1,6 @@
 [0]
+AutoGrad = "0.0.0 - 1"
+CodecZlib = "0.0.0 - 0.6"
+Images = "0.0.0 - 0.21"
+Knet = "0.0.0 - 1"
 julia = "1"

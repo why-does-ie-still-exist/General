@@ -1,2 +1,5 @@
 [0]
+Optim = "0.0.0 - 0.20"
+Unitful = "0.0.0 - 1"
+UnitfulAstro = "0.0.0 - 1"
 julia = "1"

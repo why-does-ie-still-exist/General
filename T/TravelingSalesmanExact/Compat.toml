@@ -1,2 +1,5 @@
 [0]
+JuMP = "0.0.0 - 0.20"
+MathOptInterface = "0.0.0 - 0.9"
+UnicodePlots = "0.0.0 - 1"
 julia = "1"

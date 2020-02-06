@@ -1,2 +1,5 @@
 [0]
+EzXML = "0.0.0 - 1"
+MIDI = "0.0.0 - 1"
+MusicManipulations = "0.0.0 - 1"
 julia = "1"

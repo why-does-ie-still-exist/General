@@ -1,8 +1,8 @@
 [0]
-Clustering = "0"
-DataFrames = "0"
-Distances = "0"
-Reexport = "0"
-SpatialEcology = "0.4-0"
-StatsBase = "0"
+Clustering = "0.0.0 - 0.13"
+DataFrames = "0.0.0 - 0.20"
+Distances = "0.0.0 - 0.8"
+Reexport = "0.0.0 - 0.2"
+SpatialEcology = "0.4.0 - 0.9"
+StatsBase = "0.0.0 - 0.32"
 julia = ["0.7", "1"]

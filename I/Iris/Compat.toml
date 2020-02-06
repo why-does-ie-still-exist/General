@@ -1,6 +1,7 @@
 [0]
 ArnoldiMethod = "0.0"
 ArnoldiMethodTransformations = "0.1"
+Combinatorics = "0.0.0 - 1"
 Formatting = "0.3"
 NLopt = "0.5"
 NonlinearEigenproblems = "0.2.7-0.2"

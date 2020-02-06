@@ -1,11 +1,11 @@
 [0]
-Clustering = "0.6-0"
+Clustering = "0.6.0 - 0.13"
 Compat = "0-2"
-Distributions = "0"
+Distributions = "0.0.0 - 0.22"
 FileIO = "0-1"
-JLD = "0"
-PDMats = "0"
-ScikitLearnBase = "0.0.2-0"
-SpecialFunctions = "0"
-StatsBase = "0"
+JLD = "0.0.0 - 0.9"
+PDMats = "0.0.0 - 0.9"
+ScikitLearnBase = "0.0.2 - 0.5"
+SpecialFunctions = "0.0.0 - 0.10"
+StatsBase = "0.0.0 - 0.32"
 julia = ["0.7", "1"]

@@ -1,3 +1,4 @@
 [0]
 MacroTools = "0.5.1-0.5"
+StatsBase = "0.0.0 - 0.32"
 julia = "1"

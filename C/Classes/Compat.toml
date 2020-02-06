@@ -1,4 +1,4 @@
 [0]
-DataStructures = "0"
-MacroTools = "0"
+DataStructures = "0.0.0 - 0.17"
+MacroTools = "0.0.0 - 0.5"
 julia = "1"

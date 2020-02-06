@@ -1,4 +1,8 @@
 [0]
-HTTP = "0.8.0-*"
-MAT = "0.5.0-*"
+CPLEX = "0.0.0 - 0.6"
+GLPK = "0.0.0 - 0.12"
+GLPKMathProgInterface = "0.0.0 - 0.4"
+HTTP = "0.8.0 - 0.8"
+MAT = "0.5.0 - 0.7"
+MathProgBase = "0.0.0 - 0.7"
 julia = "1"

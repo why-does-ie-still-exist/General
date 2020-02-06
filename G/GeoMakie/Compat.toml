@@ -1,16 +1,16 @@
 [0]
 AbstractPlotting = "0.9"
-Colors = "0"
+Colors = "0.0.0 - 0.11"
 EarCut = "1"
 GeoInterface = "0.5"
 GeoJSON = "0.5"
 GeometryTypes = "0.7"
 Glob = "1"
 ImageMagick = "1"
-MakieLayout = "0"
-NASAEarthObservations = "0"
+MakieLayout = "0.0.0 - 0.2"
+NASAEarthObservations = "0.0.0 - 0.1"
 Proj4 = "0.6"
-Reexport = "0"
+Reexport = "0.0.0 - 0.2"
 julia = "1.1.0-1"
 
 ["0.1.1-0"]

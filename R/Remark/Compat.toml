@@ -1,5 +1,5 @@
 [0]
-DefaultApplication = "0"
+DefaultApplication = "0.0.0 - 0.1"
 Literate = "0-1"
 julia = ["0.7", "1"]
 
@@ -7,5 +7,5 @@ julia = ["0.7", "1"]
 Documenter = "0-0.19"
 
 ["0.1-0"]
-Documenter = "0.20-0"
-DocumenterMarkdown = "0"
+Documenter = "0.20.0 - 0.24"
+DocumenterMarkdown = "0.0.0 - 0.2"

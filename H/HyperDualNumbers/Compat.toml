@@ -5,12 +5,12 @@ Compat = "0-2"
 julia = ["0.7", "1"]
 
 [2-4]
-SpecialFunctions = "0"
+SpecialFunctions = "0.0.0 - 0.10"
 
 [3-4]
 Compat = "0.69-2"
 
 [4]
-Calculus = "0"
-NaNMath = "0"
+Calculus = "0.0.0 - 0.5"
+NaNMath = "0.0.0 - 0.3"
 julia = "1"
