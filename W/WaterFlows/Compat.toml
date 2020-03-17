@@ -1,2 +1,6 @@
 [0]
+BlackBoxOptim = "0.0.0 - 0.5"
+CSV = "0.0.0 - 0.5"
+DataFrames = "0.0.0 - 0.20"
+Distributions = "0.0.0 - 0.22"
 julia = "1"

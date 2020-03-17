@@ -1,5 +1,8 @@
 [0]
+CategoricalArrays = "0.0.0 - 0.7"
 DataFrames = "0.20"
+Distributions = "0.0.0 - 0.22"
+GLM = "0.0.0 - 1"
 MixedModels = "2.2.0-2"
 RCall = "0.13"
 StatsModels = "0.6"
